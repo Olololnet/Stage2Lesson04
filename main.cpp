@@ -215,7 +215,7 @@ void Exercise1()
 
 int main()
 {
-    Exercise6();
+//    Exercise6();
 //    Exercise5();
 //    Exercise4();
 //    Exercise3();
